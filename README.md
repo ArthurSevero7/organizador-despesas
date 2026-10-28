@@ -1,6 +1,6 @@
 # Organizador de Despesas Pessoais — Bubble Sort
 
-## Instituição
+ Instituição
 UDF — Centro Universitário do Distrito Federal
 
 ## Disciplina
